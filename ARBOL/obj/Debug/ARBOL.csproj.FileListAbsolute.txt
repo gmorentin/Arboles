@@ -1,0 +1,18 @@
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\bin\Debug\ARBOL.exe.config
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\bin\Debug\ARBOL.exe
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\bin\Debug\ARBOL.pdb
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\obj\Debug\ARBOL.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\obj\Debug\ARBOL.Form1.resources
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\obj\Debug\ARBOL.Properties.Resources.resources
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\obj\Debug\ARBOL.csproj.GenerateResource.Cache
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\obj\Debug\ARBOL.exe
+C:\Users\Gustavo Morentin\Desktop\ARBOL\ARBOL\obj\Debug\ARBOL.pdb
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\bin\Debug\ARBOL.exe.config
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\bin\Debug\ARBOL.exe
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\bin\Debug\ARBOL.pdb
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\obj\Debug\ARBOL.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\obj\Debug\ARBOL.Form1.resources
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\obj\Debug\ARBOL.Properties.Resources.resources
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\obj\Debug\ARBOL.csproj.GenerateResource.Cache
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\obj\Debug\ARBOL.exe
+C:\Users\Gustavo Morentin\Desktop\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\ARBOL\ARBOL\obj\Debug\ARBOL.pdb
